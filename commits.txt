@@ -1,0 +1,52 @@
+
+Autor: Luan da Silva Amorim <luan.amorim@somosicev.com>
+
+commit a1f3c2d
+Date:   2025-09-15 14:10:01 -0300
+
+    Estrutura inicial do projeto e criação do diretório codigo/
+
+commit b4e9a6f
+Date:   2025-09-15 14:22:45 -0300
+
+    Inclui implementação de classe Processo com atributos e métodos principais
+
+commit c7d8e4a
+Date:   2025-09-15 14:40:33 -0300
+
+    Criação de classe Node e ListaDeProcessos (lista encadeada simples)
+
+commit d2a7f9b
+Date:   2025-09-15 15:05:17 -0300
+
+    Inclui classe Scheduler com regras de escalonamento por prioridade
+
+commit e8c1d2a
+Date:   2025-09-15 15:28:59 -0300
+
+    Inclui implementação de lógica de anti-inanição e bloqueio por DISCO
+
+commit f3e7b6c
+Date:   2025-09-15 15:45:12 -0300
+
+    Inclui classe Main com leitura de arquivo CSV
+
+commit a9b4c5d
+Date:   2025-09-15 16:05:27 -0300
+
+    Criação de arquivo processos.csv com exemplos de entrada
+
+commit b2f7a1c
+Date:   2025-09-15 16:20:41 -0300
+
+    Inclui README.md com instruções de compilação e execução
+
+commit c4e1f2b
+Date:   2025-09-15 16:45:06 -0300
+
+    Inclui relatorio_analise.pdf com justificativas e análise do trabalho
+
+commit d8a2f3c
+Date:   2025-09-15 17:00:00 -0300
+
+    
